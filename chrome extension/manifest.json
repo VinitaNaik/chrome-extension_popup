@@ -1,0 +1,10 @@
+{
+    "name":"Thought For The Day",
+    "description":"Anime Thoughts right to you!",
+    "version":"0.0.1",
+    "manifest_version":3,
+    "action":{
+        "default_popup":"popup.html"
+    }
+
+}
